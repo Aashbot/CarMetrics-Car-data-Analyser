@@ -1,0 +1,201 @@
+﻿name,mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,price,company,image_path,url
+Hyundai Santro,18,9,1427,166,1083,22.5,70,india,400000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Toyota Innova,18,1,2276,148,1095,14.7,70,india,1510000,Toyota,Toyota Innova.png,https://www.toyotabharat.com/
+Hyundai Creta,14,8,1948,137,1431,15.8,70,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+MG Hector,14,1,1275,168,1287,18.4,70,india,1800000,MG,,https://www.mgmotor.co.in/
+Hyundai Venue,18,9,1568,114,1326,16.3,70,india,400000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Tata Nexon,17,5,2301,140,1374,21.9,70,india,700000,Tata,,https://cars.tatamotors.com/
+Toyota Fortuner,15,4,1637,105,1305,10.6,70,india,1520000,Toyota,Toyota Fortuner.png,https://www.toyotabharat.com/
+Toyota Corolla,18,1,1156,177,1419,19.1,70,india,1530000,Toyota,Toyota Corolla.png,https://www.toyotabharat.com/
+Volkswagen Polo,21,2,1213,102,1261,12.8,70,india,600000,Volkswagen,,https://www.volkswagen.co.in/
+Hyundai Elantra,18,9,1324,185,1348,13.4,70,india,400000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Tata Harrier,17,5,1649,118,1024,17.2,70,india,700000,Tata,,https://cars.tatamotors.com/
+Hyundai i20,14,8,2123,139,1284,23.2,70,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Ford EcoSport,16,4,2233,92,1059,8.3,70,india,1200000,Ford,,https://www.india.ford.com/
+Honda City,20,3,2034,84,1367,11.9,70,india,950000,Honda,,https://www.hondacarindia.com/
+Kia Seltos,19,9,1164,98,1015,7.5,70,india,850000,Kia,,https://www.kia.com/in/home.html
+MG Gloster,14,1,2173,82,1207,20.3,70,india,1800000,MG,,https://www.mgmotor.co.in/
+Maruti Suzuki Baleno,16,1,1358,60,1173,9.7,70,india,600000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Tata Tigor,17,4,1567,93,1252,24.6,70,india,1500000,Tata,,https://cars.tatamotors.com/
+Maruti Suzuki Alto,20,2,1745,59,1268,6.7,70,india,300000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Toyota Camry,18,1,1834,83,1425,5.5,70,india,1540000,Toyota,Toyota Camry.png,https://www.toyotabharat.com/
+Honda Jazz,20,3,2109,74,1413,25,70,india,950000,Honda,,https://www.hondacarindia.com/
+Maruti Suzuki Swift,21,2,1485,78,1013,14.2,70,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Hyundai Verna,19,7,1376,54,1158,18.7,70,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Toyota Yaris,18,1,2062,79,1177,16.4,70,india,1550000,Toyota,Toyota Yaris.png,https://www.toyotabharat.com/
+Hyundai Tucson,19,7,1861,171,1397,21,70,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+MG ZS EV,14,1,1199,52,1102,11.3,70,india,1800000,MG,,https://www.mgmotor.co.in/
+Mahindra XUV500,15,9,1972,159,1424,12.6,70,india,800000,Mahindra,,https://www.mahindra.com/
+Hyundai Aura,19,7,2294,72,1343,10.1,70,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Mahindra Scorpio,15,9,1997,53,1255,19.8,70,india,800000,Mahindra,,https://www.mahindra.com/
+Maruti Suzuki Dzire,20,2,1214,96,1076,22.4,71,india,300000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Hyundai Kona,19,7,2158,87,1227,13.9,71,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Skoda Rapid,20,8,1312,187,1382,7.6,71,india,2200000,Skoda,,https://www.skoda-auto.co.in/
+Maruti Suzuki Celerio,20,2,1719,70,1206,9,71,india,300000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Maruti Suzuki S-Presso,20,2,2234,174,1172,23.9,71,india,300000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Skoda Superb,20,8,1572,89,1136,8.8,71,india,2200000,Skoda,,https://www.skoda-auto.co.in/
+Mahindra Bolero,17,9,2043,55,1347,15.1,71,india,1200000,Mahindra,,https://www.mahindra.com/
+MG Astor,14,1,2345,191,1308,17.6,71,india,1800000,MG,,https://www.mgmotor.co.in/
+Honda WR-V,21,9,1237,77,1371,20.8,71,india,700000,Honda,,https://www.hondacarindia.com/
+Skoda Kodiaq,20,8,1694,73,1274,24.2,71,india,2200000,Skoda,,https://www.skoda-auto.co.in/
+Ford Endeavour,16,4,1813,110,1146,6.1,71,india,1200000,Ford,,https://www.india.ford.com/
+Tata Hexa,17,5,1407,67,1426,5.7,71,india,700000,Tata,,https://cars.tatamotors.com/
+Toyota Land Cruiser,15,4,1782,69,1081,21.7,71,india,3000000,Toyota,,https://www.toyotabharat.com/
+Mahindra Thar,15,9,2146,120,1032,18.3,71,india,800000,Mahindra,,https://www.mahindra.com/
+Maruti Suzuki Vitara Brezza,16,1,1613,193,1216,16.6,71,india,600000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Renault Kwid,18,2,2279,178,1097,14.5,71,india,400000,Renault,,https://www.renault.co.in/
+Tata Safari,17,5,2035,88,1405,11.4,71,india,700000,Tata,,https://cars.tatamotors.com/
+Maruti Suzuki Ignis,16,1,1523,95,1162,25,71,india,600000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Honda BR-V,20,3,1912,150,1473,12.2,71,india,950000,Honda,,https://www.hondacarindia.com/
+Tata Altroz,17,5,2183,94,1193,9.8,71,india,700000,Tata,,https://cars.tatamotors.com/
+Tata Zest,17,5,1254,57,1063,19.5,71,india,700000,Tata,,https://cars.tatamotors.com/
+Tata Tiago,17,4,1367,86,1354,22.7,71,india,1500000,Tata,,https://cars.tatamotors.com/
+Tata Punch,17,5,1759,183,1409,7.9,71,india,700000,Tata,,https://cars.tatamotors.com/
+Mahindra Marazzo,15,9,2309,196,1247,10.5,71,india,800000,Mahindra,,https://www.mahindra.com/
+Maruti Suzuki Eeco,16,1,2067,66,1138,13.6,71,india,600000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Hyundai Alcazar,18,9,1826,65,1337,23.5,71,india,400000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Hyundai i10 Nios,19,7,1638,142,1276,8.2,71,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Hyundai Grand i10,14,8,1954,75,1176,17.9,71,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Toyota Urban Cruiser,18,1,1187,58,1049,15.3,72,india,1560000,Toyota,Toyota Urban Cruiser.png,https://www.toyotabharat.com/
+Mahindra KUV100,17,9,1439,76,1079,6.9,72,india,1200000,Mahindra,,https://www.mahindra.com/
+Mahindra XUV700,17,9,1325,80,1314,20.2,72,india,1200000,Mahindra,,https://www.mahindra.com/
+Maruti Suzuki WagonR,16,1,1684,85,1439,5.4,72,india,600000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Tata Harrier,17,4,2265,81,1249,18.9,72,india,1500000,Tata,,https://cars.tatamotors.com/
+Toyota Etios,15,4,2116,199,1454,16.1,72,india,3000000,Toyota,,https://www.toyotabharat.com/
+Hyundai i20 Active,14,8,2387,155,1299,11.7,72,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+MG Hector Plus,14,1,1701,188,1294,14,72,india,1800000,MG,,https://www.mgmotor.co.in/
+Toyota Vellfire,18,1,2224,61,1234,24.4,72,india,1500000,Toyota,,https://www.toyotabharat.com/
+Honda Amaze,21,9,1506,194,1241,9.3,72,india,700000,Honda,,https://www.hondacarindia.com/
+Mahindra Xylo,17,9,1849,199,1023,21.5,72,india,1200000,Mahindra,,https://www.mahindra.com/
+Hyundai i10,14,8,2075,64,1119,12.3,72,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Maruti Suzuki Ertiga,16,1,1263,113,1471,22.9,72,india,600000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Maruti Suzuki Ciaz,21,2,1598,62,1087,7.1,72,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Mahindra Alturas G4,17,9,2013,91,1106,10.8,72,india,1200000,Mahindra,,https://www.mahindra.com/
+Maruti Suzuki Baleno RS,20,2,1345,97,1142,19.7,72,india,300000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Toyota Prius,15,4,1186,115,1407,13,72,india,3000000,Toyota,,https://www.toyotabharat.com/
+Tata Bolt,17,4,2285,127,1061,23.1,72,india,1500000,Tata,,https://cars.tatamotors.com/
+Toyota Glanza,15,4,1298,99,1113,8.7,72,india,3000000,Toyota,,https://www.toyotabharat.com/
+Toyota Hilux,18,1,1456,63,1427,17.3,72,india,1570000,Toyota,Toyota Hilux.png,https://www.toyotabharat.com/
+MG Marvel R,14,1,1812,51,1309,15.6,72,india,1800000,MG,,https://www.mgmotor.co.in/
+Mahindra Verito,15,9,1903,56,1325,6.2,72,india,800000,Mahindra,,https://www.mahindra.com/
+Maruti Suzuki XL6,21,2,1527,103,1368,20.5,72,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Kia Carnival,19,9,2125,156,1184,5.6,72,india,850000,Kia,,https://www.kia.com/in/home.html
+Mahindra eVerito,17,9,1392,184,1288,18.1,72,india,1200000,Mahindra,,https://www.mahindra.com/
+Kia Sonet,19,9,1967,139,1129,16.9,72,india,850000,Kia,,https://www.kia.com/in/home.html
+Tata Nexon EV,17,5,1718,197,1465,11.1,72,india,700000,Tata,,https://cars.tatamotors.com/
+Hyundai Palisade,19,7,1384,100,1297,14.3,72,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Mahindra TUV300,15,9,1723,71,1052,24.9,73,india,800000,Mahindra,,https://www.mahindra.com/
+Ford Freestyle,16,4,2001,134,1246,9.2,73,india,1200000,Ford,,https://www.india.ford.com/
+Renault Triber,18,2,1136,126,1443,21.3,73,india,400000,Renault,,https://www.renault.co.in/
+Honda Civic,21,9,2379,90,1462,12.4,73,india,700000,Honda,,https://www.hondacarindia.com/
+Maruti Suzuki Ciaz S,21,2,1497,138,1091,22.1,73,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Ford Aspire,16,4,1975,50,1188,7.4,73,india,1200000,Ford,,https://www.india.ford.com/
+Maruti Suzuki Swift Hybrid,21,2,2190,146,1219,10.3,73,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Tata Harrier Dark Edition,17,4,1416,111,1428,19.4,73,india,1500000,Tata,,https://cars.tatamotors.com/
+Hyundai Tucson AWD,14,8,1582,68,1065,13.1,73,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+MG Comet EV,14,1,1229,182,1359,23.3,73,india,1800000,MG,,https://www.mgmotor.co.in/
+Tata Harrier Safari Edition,17,4,2307,58,1165,8.6,73,india,1500000,Tata,,https://cars.tatamotors.com/
+Tata Harrier Kaziranga Edition,17,4,1924,170,1039,17.8,73,india,1500000,Tata,,https://cars.tatamotors.com/
+Honda Accord,20,3,2104,198,1447,15.2,73,india,950000,Honda,,https://www.hondacarindia.com/
+Hyundai Sonata,18,9,1583,173,1147,6.8,73,india,400000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Hyundai Santa Fe,18,9,2378,58,1385,20.7,73,india,400000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+MG Hector Dual Tone,14,1,1157,72,1033,5.9,73,india,1800000,MG,,https://www.mgmotor.co.in/
+Hyundai Kona Electric,14,8,2235,65,1323,18.5,73,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Maruti Suzuki Jimny,16,1,2097,77,1434,16.8,73,india,600000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Maruti Suzuki Ignis Alpha,16,1,1342,84,1181,11.5,73,india,600000,Maruti Suzuki,,https://www.marutisuzuki.com/
+MG Hector Sharp,14,1,1558,56,1319,14.6,73,india,1800000,MG,,https://www.mgmotor.co.in/
+Renault Duster,18,2,2165,67,1127,24.8,73,india,400000,Renault,,https://www.renault.co.in/
+Kia Carens,19,9,1825,189,1004,9.5,73,india,850000,Kia,,https://www.kia.com/in/home.html
+Hyundai Santro Sportz,18,9,1695,185,1036,21.6,73,india,400000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Ford Figo,16,4,1856,156,1452,12.7,73,india,1200000,Ford,,https://www.india.ford.com/
+Maruti Suzuki Ritz,21,2,1286,179,1222,22.3,73,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Mahindra TUV300 Plus,17,9,1401,115,1224,7.2,73,india,1200000,Mahindra,,https://www.mahindra.com/
+Toyota Rush,18,1,2292,191,1395,10.4,73,india,1580000,Toyota,Toyota Rush.png,https://www.toyotabharat.com/
+Maruti Suzuki Kizashi,20,2,1643,109,1179,19.9,73,india,300000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Skoda Laura,20,8,1257,80,1244,13.2,73,india,2200000,Skoda,,https://www.skoda-auto.co.in/
+Maruti Suzuki A-Star,21,2,1326,66,1334,23.6,73,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Maruti Suzuki Estilo,21,2,1817,151,1418,8.4,73,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Kia Stinger,19,9,1773,74,1362,17.1,73,india,850000,Kia,,https://www.kia.com/in/home.html
+MG Hector Style,14,1,2179,116,1393,15.7,73,india,1800000,MG,,https://www.mgmotor.co.in/
+Honda HR-V,21,9,2014,93,1279,6.3,73,india,700000,Honda,,https://www.hondacarindia.com/
+Tata Aria,17,5,1612,118,1394,20.6,73,india,700000,Tata,,https://cars.tatamotors.com/
+Ford Mustang,16,4,1894,85,1069,5.8,73,india,1200000,Ford,,https://www.india.ford.com/
+MG Hector Savvy,14,1,1509,92,1078,18.2,73,india,1800000,MG,,https://www.mgmotor.co.in/
+Kia Niro,19,9,1204,168,1199,16.7,73,india,850000,Kia,,https://www.kia.com/in/home.html
+Mahindra E2O,15,9,1537,53,1122,11,73,india,800000,Mahindra,,https://www.mahindra.com/
+Toyota Avalon,18,1,1754,97,1208,14.4,73,india,1590000,Toyota,Toyota Avalon.png,https://www.toyotabharat.com/
+Kia Sportage,19,9,1335,123,1492,24.7,74,india,850000,Kia,,https://www.kia.com/in/home.html
+Volkswagen Vento,21,2,1453,183,1289,9.6,74,india,600000,Volkswagen,,https://www.volkswagen.co.in/
+Tata Manza,17,4,1993,75,1378,21.4,74,india,1500000,Tata,,https://cars.tatamotors.com/
+Honda CR-V,20,3,1927,94,1109,12.9,74,india,950000,Honda,,https://www.hondacarindia.com/
+MG Hector Excite,14,1,1632,90,1256,22.2,74,india,1800000,MG,,https://www.mgmotor.co.in/
+Honda Mobilio,20,3,1169,178,1488,7.3,74,india,950000,Honda,,https://www.hondacarindia.com/
+Maruti Suzuki S-Cross,21,2,1245,119,1315,10.2,74,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Toyota Altis,15,4,1396,81,1137,19.6,74,india,3000000,Toyota,,https://www.toyotabharat.com/
+Ford Ranger,16,4,2108,55,1007,13.3,74,india,1200000,Ford,,https://www.india.ford.com/
+Maruti Suzuki Dzire Tour,16,1,1765,124,1108,23.4,74,india,600000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Renault Kiger,18,2,1449,122,1389,8.9,74,india,400000,Renault,,https://www.renault.co.in/
+Maruti Suzuki Baleno DualJet,16,1,1479,188,1342,17.5,74,india,600000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Honda BR-V VX,21,9,2346,186,1212,15.5,74,india,700000,Honda,,https://www.hondacarindia.com/
+Skoda Fabia,20,8,2142,57,1159,6.5,74,india,2200000,Skoda,,https://www.skoda-auto.co.in/
+Honda Accord Hybrid,20,3,1234,181,1168,20.1,74,india,950000,Honda,,https://www.hondacarindia.com/
+Honda Jazz VX,21,9,1847,102,1035,5.3,74,india,700000,Honda,,https://www.hondacarindia.com/
+Hyundai Elite i20,14,8,2226,140,1442,18.8,74,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Skoda Karoq,20,8,1965,121,1422,16.5,74,india,2200000,Skoda,,https://www.skoda-auto.co.in/
+Hyundai i20 N Line,19,7,1977,157,1218,11.8,74,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Honda City Hybrid,20,3,2056,99,1025,14.8,74,india,950000,Honda,,https://www.hondacarindia.com/
+Kia Optima,19,9,1823,113,1322,24.5,74,india,850000,Kia,,https://www.kia.com/in/home.html
+Renault Captur,18,2,2076,69,1238,9.1,74,india,400000,Renault,,https://www.renault.co.in/
+Honda City ZX,20,3,2227,129,1415,21.8,74,india,950000,Honda,,https://www.hondacarindia.com/
+Mahindra Quanto,17,9,2151,61,1475,12.5,74,india,1200000,Mahindra,,https://www.mahindra.com/
+Kia Cadenza,19,9,1786,79,1332,22,74,india,850000,Kia,,https://www.kia.com/in/home.html
+Toyota Mirai,15,4,1687,195,1046,7,74,india,3000000,Toyota,,https://www.toyotabharat.com/
+Maruti Suzuki Omni,20,2,1548,180,1464,10,74,india,300000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Honda CR-V Diesel,20,3,1697,71,1144,13,75,india,950000,Honda,,https://www.hondacarindia.com/
+MG Hector Plus Sharp,14,1,2253,107,1278,10,75,india,1800000,MG,,https://www.mgmotor.co.in/
+Skoda Yeti,20,8,1596,135,1388,8,75,india,2200000,Skoda,,https://www.skoda-auto.co.in/
+Skoda Octavia RS,20,8,1308,146,1396,8,75,india,2200000,Skoda,,https://www.skoda-auto.co.in/
+Ford Figo Aspire,16,4,1940,150,1205,11,75,india,1200000,Ford,,https://www.india.ford.com/
+Ford Ecosport S,16,4,1249,132,1074,11,75,india,1200000,Ford,,https://www.india.ford.com/
+Mahindra Thar AX,17,9,2354,149,1058,11,75,india,1200000,Mahindra,,https://www.mahindra.com/
+Honda Civic RS,21,9,2383,125,1263,12,75,india,700000,Honda,,https://www.hondacarindia.com/
+Kia Seltos GT Line,19,9,1357,104,1438,14,75,india,850000,Kia,,https://www.kia.com/in/home.html
+Maruti Suzuki WagonR Stingray,21,2,2377,82,1435,14,75,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Ford EcoSport SE,16,4,2255,165,1194,11,75,india,1200000,Ford,,https://www.india.ford.com/
+Honda City i-VTEC,20,3,1554,175,1228,13,75,india,950000,Honda,,https://www.hondacarindia.com/
+Volkswagen Tiguan,21,2,1929,131,1421,12,75,india,600000,Volkswagen,,https://www.volkswagen.co.in/
+Honda Jazz RS,21,9,1285,109,1298,12,75,india,700000,Honda,,https://www.hondacarindia.com/
+Volkswagen T-Roc,21,2,1641,63,1084,12,75,india,600000,Volkswagen,,https://www.volkswagen.co.in/
+Honda City VX,20,3,1576,111,1478,13,75,india,950000,Honda,,https://www.hondacarindia.com/
+Hyundai i20 Magna,18,9,1316,153,1027,15,75,india,400000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Volkswagen Jetta,21,2,1862,103,1455,12,75,india,600000,Volkswagen,,https://www.volkswagen.co.in/
+Ford Aspire Trend,16,4,1953,190,1090,11,75,india,1200000,Ford,,https://www.india.ford.com/
+Honda Accord V6,20,3,2009,106,1047,13,75,india,950000,Honda,,https://www.hondacarindia.com/
+Maruti Suzuki Zen,21,2,2118,107,1375,14,75,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Honda City S,20,3,1876,171,1391,13,75,india,950000,Honda,,https://www.hondacarindia.com/
+Volkswagen Polo GT,21,2,1778,167,1338,12,75,india,600000,Volkswagen,,https://www.volkswagen.co.in/
+Mahindra NuvoSport,15,9,2085,177,1143,11,75,india,800000,Mahindra,,https://www.mahindra.com/
+Kia Rio,19,9,1207,174,1019,14,75,india,850000,Kia,,https://www.kia.com/in/home.html
+Hyundai i20 Asta,18,9,1514,119,1408,15,75,india,400000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Honda Civic V,21,9,1985,186,1112,12,75,india,700000,Honda,,https://www.hondacarindia.com/
+Renault Lodgy,18,2,2186,78,1189,14,75,india,400000,Renault,,https://www.renault.co.in/
+Tata Sumo,17,4,1797,133,1487,11,75,india,1500000,Tata,,https://cars.tatamotors.com/
+Maruti Suzuki Gypsy,16,1,1906,114,1365,13,75,india,600000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Tata Harrier XT,17,4,2019,158,1160,11,76,india,1500000,Tata,,https://cars.tatamotors.com/
+Mahindra Thar CRDe,15,9,1734,184,1237,11,76,india,800000,Mahindra,,https://www.mahindra.com/
+Renault Fluence,18,2,1417,191,1243,14,76,india,400000,Renault,,https://www.renault.co.in/
+MG Hector Savvy Pro,14,1,2323,155,1445,10,76,india,1800000,MG,,https://www.mgmotor.co.in/
+Mahindra TUV300 T8,17,9,1452,58,1067,11,76,india,1200000,Mahindra,,https://www.mahindra.com/
+Skoda Octavia vRS,20,8,1423,62,1107,8,76,india,2200000,Skoda,,https://www.skoda-auto.co.in/
+Hyundai Kona Electric Premium,14,8,2241,127,1213,10,76,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Renault Scala,18,2,2046,196,1493,14,76,india,400000,Renault,,https://www.renault.co.in/
+Hyundai Grand i10 Nios,14,8,1803,154,1250,10,76,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Maruti Suzuki Celerio X,21,2,1739,187,1380,14,76,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Hyundai i20 Active SX,18,9,1664,76,1456,15,76,india,400000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Hyundai Creta SX,19,7,1836,154,1328,10,76,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Hyundai Grand i10 Nios Sportz,19,7,1672,141,1400,10,76,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
+Honda BR-V S,21,9,2081,193,1006,12,76,india,700000,Honda,,https://www.hondacarindia.com/
+Maruti Suzuki Swift VXI,21,2,1852,117,1281,14,76,india,500000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Maruti Suzuki Alto K10,20,2,1992,52,1437,13,76,india,300000,Maruti Suzuki,,https://www.marutisuzuki.com/
+Volkswagen Ameo,21,2,1942,137,1070,12,76,india,600000,Volkswagen,,https://www.volkswagen.co.in/
+Hyundai Verna SX,19,7,1369,96,1466,10,76,india,900000,Hyundai,,https://www.hyundai.com/in/en/find-a-car
